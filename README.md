@@ -7,7 +7,7 @@ A high-performance, fully functional API client platform replicating the design,
 ## 🚀 Live Deployments
 
 *   **Frontend (Vercel):** [https://scalerlabs-postmanclone.vercel.app/](https://scalerlabs-postmanclone.vercel.app/)
-*   **Backend API (Render):** [https://scalerlabs-postmanclone.onrender.com/](https://scalerlabs-postmanclone.onrender.com/)
+*   **Backend API (Render):** [https://scalerlabs-postmanclone.onrender.com/](https://scalerlabs-postmanclone.onrender.com/seed)
 
 > [!IMPORTANT]
 > **RENDER COLD START NOTICE:**
